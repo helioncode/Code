@@ -7,7 +7,7 @@ class Person {
     string varString = "Text";
 }
 #endregion
-//enum is kelompok constan data
+//enum
 enum Day{
 
 }
